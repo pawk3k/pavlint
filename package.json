@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "commitlint": "^13.2.1",
     "husky": "^7.0.2"
   }
 }
