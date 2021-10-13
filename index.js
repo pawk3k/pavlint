@@ -1,6 +1,6 @@
 exports.printMsg = function() {
 
     
-    console.log("Aliases for PR's");
+    console.log("Aliases for PR1's");
     
 }
