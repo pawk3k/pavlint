@@ -1,6 +1,6 @@
-exports.printMsg = function() {
+module.exports = {
+    parser: "@babel/eslint-parser",
+    "extends": ["plugin:ternary/recommended"]
 
-    
-    console.log("Aliases for PR1's");
-    console.log('Prs actions')
+   
 }

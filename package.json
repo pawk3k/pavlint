@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/eslint-parser": "^7.15.8",
     "commitlint": "^13.2.1",
     "husky": "^7.0.2",
     "lint-staged": "^11.2.3"
